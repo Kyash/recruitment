@@ -1,0 +1,57 @@
+version: 2
+jobs:
+  build:
+    docker:
+       - image: circleci/ruby:2.6.0-node-browsers
+         environment:
+           BUNDLER_VERSION: 2.0.1
+    working_directory: ~/repo
+    steps:
+      - checkout
+
+      # ruby dependencies
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "Gemfile.lock" }}
+          # fallback to using the latest cache if no exact match is found
+          - v1-dependencies-
+
+      - run:
+          name: setup bundler
+          command: |
+            sudo gem update --system
+            sudo gem uninstall bundler
+            sudo rm /usr/local/bin/bundle
+            sudo rm /usr/local/bin/bundler
+            sudo gem install bundler
+      - run:
+          name: bundle install
+          command: |
+            bundle install --jobs=4 --retry=3 --path vendor/bundle
+      - save_cache:
+          paths:
+            - ./vendor/bundle
+          key: v1-dependencies-{{ checksum "Gemfile.lock" }}
+
+      # npm dependencies
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+
+      - run:
+          name: npm install
+          command: npm install
+
+      - save_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+          paths:
+            - ./node_modules
+
+      - run:
+          name: danger
+          command: |
+            bundle exec danger
+      - run:
+          name: markdownlint
+          command: |
+            sudo npm install -g markdownlint-cli
+            markdownlint */*.md README.md
