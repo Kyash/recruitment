@@ -1,0 +1,22 @@
+{
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "preset-ja-technical-writing": {
+      "ja-no-mixed-period": false,
+      "ja-no-successive-word": false,
+      "no-doubled-joshi": false,
+      "max-comma": false,
+      "sentence-length": false,
+      "no-exclamation-question-mark": false,
+      "max-kanji-continuous-len": false,
+      "no-mix-dearu-desumasu": false,
+    },
+    "prh": {
+      "rulePaths": [
+        "./prh-rules/kyash-prh.yml"
+      ]
+    }
+  }
+}
