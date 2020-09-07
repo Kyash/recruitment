@@ -12,6 +12,7 @@
       "no-exclamation-question-mark": false,
       "max-kanji-continuous-len": false,
       "no-mix-dearu-desumasu": false,
+      "ja-no-weak-phrase": false
     },
     "prh": {
       "rulePaths": [
