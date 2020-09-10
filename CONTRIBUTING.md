@@ -15,7 +15,8 @@ Issueテンプレートに沿って自由に起票してください。
 - Vim: [ale](https://github.com/dense-analysis/ale), [lightline.vim](https://github.com/itchyny/lightline.vim), [lightline-ale](https://github.com/maximbaz/lightline-ale)
 
 <details>
-<summary>vimのlightlineとaleに関する設定はこちら</summary>
+  <summary>vimのlightlineとaleに関する設定はこちら</summary>
+
 ```
 let g:lightline = {}
 let g:lightline.component_expand = {
