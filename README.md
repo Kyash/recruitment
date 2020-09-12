@@ -8,7 +8,7 @@ Kyashの採用応募者向けの公開情報をまとめたリポジトリです
 
 ## Index
 
-- [Kyashエンジニアの採用面接ガイドライン](https://github.com/Kyash/recruitment/blob/master/interview_guideline_engineer.md)
+- [Kyashエンジニアの採用面接ガイド](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md)
 
 ## Contributing
 

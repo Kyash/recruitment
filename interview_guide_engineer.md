@@ -1,4 +1,4 @@
-# Kyashエンジニアの採用面接ガイドライン
+# Kyashエンジニアの採用面接ガイド
 
 このドキュメントは、Kyashのエンジニアの応募者に向けて、採用面接のフローや目的などを明記したものです。  
 予告なく変更されることがありますが、よりよい採用プロセスを実現するためご容赦ください。
@@ -17,12 +17,12 @@
 
 選考 | 出席者 | 最大時間 | 目的
 :--: | :--: | :--: | :--
-[1次面接](https://github.com/Kyash/recruitment/blob/master/interview_guideline_engineer.md#1%E6%AC%A1%E9%9D%A2%E6%8E%A5) | エンジニアメンバー 2名 | 60分 | 近い立場で一緒に働くメンバーとして、リスペクトできる技術スキルを有しているかどうかを判断します。
-[2次面接](https://github.com/Kyash/recruitment/blob/master/interview_guideline_engineer.md#2%E6%AC%A1%E9%9D%A2%E6%8E%A5) | EM または VPoE 1名 | 45分 | エンジニアチームで一緒に働くメンバーとして、カルチャーフィットするかどうか、お任せする予定の仕事で期待する成果が出せそうかを判断します。
-[最終面接](https://github.com/Kyash/recruitment/blob/master/interview_guideline_engineer.md#%E6%9C%80%E7%B5%82%E9%9D%A2%E6%8E%A5) | 前半 CTO / 後半 CEO | 45分 / 30分 | Kyashで一緒に働くメンバーとして、お互いにミスマッチがなく働けるか、条件面を含めた双方向の確認を行います。
+[1次面接](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#1%E6%AC%A1%E9%9D%A2%E6%8E%A5) | エンジニアメンバー 2名 | 60分 | 近い立場で一緒に働くメンバーとして、リスペクトできる技術スキルを有しているかどうかを判断します。
+[2次面接](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#2%E6%AC%A1%E9%9D%A2%E6%8E%A5) | EM または VPoE 1名 | 45分 | エンジニアチームで一緒に働くメンバーとして、カルチャーフィットするかどうか、お任せする予定の仕事で期待する成果が出せそうかを判断します。
+[最終面接](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#%E6%9C%80%E7%B5%82%E9%9D%A2%E6%8E%A5) | 前半 CTO / 後半 CEO | 45分 / 30分 | Kyashで一緒に働くメンバーとして、お互いにミスマッチがなく働けるか、条件面を含めた双方向の確認を行います。
 
 また、選考前または選考中にKyashについての情報共有の場としてカジュアル面談を受けられます。希望する方は人事または社内のメンバーまでお気軽にご連絡ください。  
-カジュアル面談は選考ではないので何かを評価することはありません。詳細は後述の[カジュアル面談](https://github.com/Kyash/recruitment/blob/master/interview_guideline_engineer.md#%E3%82%AB%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E9%9D%A2%E8%AB%87)の説明をご参照ください。
+カジュアル面談は選考ではないので何かを評価することはありません。詳細は後述の[カジュアル面談](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#%E3%82%AB%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E9%9D%A2%E8%AB%87)の説明をご参照ください。
 
 ----
 
@@ -49,7 +49,7 @@
     - 応募者の情報はレジュメや履歴書で確認しているので自己紹介は必須ではありません
 3. 技術スキルの確認
     - 対話形式で応募者の技術や知識を確認します
-    - 内容については、後述の[技術面接の内容](https://github.com/Kyash/recruitment/blob/master/interview_guideline_engineer.md#%E6%8A%80%E8%A1%93%E9%9D%A2%E6%8E%A5%E3%81%AE%E5%86%85%E5%AE%B9)をご参照ください
+    - 内容については、後述の[技術面接の内容](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#%E6%8A%80%E8%A1%93%E9%9D%A2%E6%8E%A5%E3%81%AE%E5%86%85%E5%AE%B9)をご参照ください
 4. 応募者からの質問
     - 組織やチーム、プロダクトなどあらゆる質問を歓迎します
     - その場で回答できない質問は、社内で確認した上で面接後に人事から回答します
@@ -92,7 +92,7 @@ Engineering Manager または VP of Engineering 1名
     - 応募者の情報はレジュメや履歴書で確認しているので自己紹介は必須ではありません
 3. ソフトスキルの確認
     - 対話形式で、カルチャーフィットするかどうか、これまでの経験を伺いながら確認します
-    - どのような内容かは、後述の[質問の内容](https://github.com/Kyash/recruitment/blob/master/interview_guideline_engineer.md#%E8%B3%AA%E5%95%8F%E3%81%AE%E5%86%85%E5%AE%B9)をご参照ください
+    - どのような内容かは、後述の[質問の内容](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#%E8%B3%AA%E5%95%8F%E3%81%AE%E5%86%85%E5%AE%B9)をご参照ください
     - 応募者にとって入社後のイメージもより具体的になると思いますので、自らの志向と合うかどうかも是非確認ください
 4. 応募者からの質問
     - 組織やチーム、プロダクトなどあらゆる質問を歓迎します
