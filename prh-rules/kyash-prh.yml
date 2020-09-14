@@ -290,3 +290,5 @@ rules:
   - expected: ほとんど
     pattern:  殆ど
     prh: 漢字で書かず、ひらがなで書くと読みやすくなります
+  - expected: しています
+    pattern: してます
