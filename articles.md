@@ -52,5 +52,6 @@ Kyashが発信しているブログやnoteです。
 
 Kyashの事業の現在と未来に言及された記事の一覧です。
 
-- [2019/12/25 「Mobile Banking」は何を塗り替えるのか？](https://blog.kyash.co/entry/2019/12/25/214301)
 - [2020/09/07 「Kyash」が銀行口座からの入出金に対応、“バンキングサービス”に向けて加速へ](https://signal.diamond.jp/articles/-/267) - DIAMOND SIGNAL
+- [2020/08/28 Digitizing Japan’s Status Quo with Shinichi Takatori, Founder and CEO of Kyash](https://medium.com/wharton-fintech/digitizing-japans-status-quo-with-is-shinichi-takatori-founder-and-ceo-of-kyash-c91bd3cdfbfd) - WHARTON FINTECH
+- [2019/12/25 「Mobile Banking」は何を塗り替えるのか？](https://blog.kyash.co/entry/2019/12/25/214301)
