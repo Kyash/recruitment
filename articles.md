@@ -55,4 +55,7 @@ Kyashの事業の現在と未来に言及された記事の一覧です。
 
 - [2020/09/07 「Kyash」が銀行口座からの入出金に対応、“バンキングサービス”に向けて加速へ](https://signal.diamond.jp/articles/-/267) - DIAMOND SIGNAL
 - [2020/08/28 Digitizing Japan’s Status Quo with Shinichi Takatori, Founder and CEO of Kyash](https://medium.com/wharton-fintech/digitizing-japans-status-quo-with-is-shinichi-takatori-founder-and-ceo-of-kyash-c91bd3cdfbfd) - WHARTON FINTECH
-- [2019/12/25 「Mobile Banking」は何を塗り替えるのか？](https://blog.kyash.co/entry/2019/12/25/214301)
+- [2020/03/31 Japanese Fintech Startup Raises Funds Despite Virus Chilling VCs](https://www.bloomberg.com/news/articles/2020-03-30/japanese-fintech-startup-raises-funds-despite-virus-chilling-vcs) - Bloomberg
+- [2019/12/25 「Mobile Banking」は何を塗り替えるのか？](https://blog.kyash.co/entry/2019/12/25/214301) - Kyash Product Blog
+- [2017/08/09 尾崎世界観とKyash鷹取真一が語り合う、価値とお金と創作の話](https://www.cinra.net/interview/201708-kyashozaki) - CINRA.NET
+- [2017/04/05 お金と感情の新しい関係 − FinTechスタートアップが描くお金の未来](https://dentsu-ho.com/articles/5033) - 電通報
