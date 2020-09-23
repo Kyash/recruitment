@@ -43,6 +43,7 @@ Kyashが発信しているブログやnoteです。
 プロダクト開発がどのように行われているかなんとなく知れる記事の一覧です。
 
 - [2020/08/12 アプリの履歴上のお店の名前を、全角漢字かな表記に変えてみました](https://blog.kyash.co/entry/2020/08/12/092539)
+- [2020/07/22 エンジニアから見たKyashのPdMのおしごと](https://speakerdeck.com/konifar/an-engineers-perspective-for-pdm-roles-in-kyash)
 - [2020/04/20 「お金をまもる」をスマホひとつで。Kyashの新機能【カード設定】のご紹介](https://blog.kyash.co/entry/2020/04/20/142916)
 - [2019/08/02 Kyashアプリ画面デザイン変更、サービスサイトリニューアルの裏側](https://blog.kyash.co/entry/2019/08/02/111013)
 - [2019/08/02 「いつものお支払いを2%お得に」から「いつものカードがもっと便利に」へ 〜Kyashのマーケティング戦略〜](https://blog.kyash.co/entry/2019/08/02/110017)
