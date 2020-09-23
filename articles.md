@@ -23,8 +23,8 @@ Kyashが発信しているブログやnoteです。
 - [2020/09/18 SRE 2020/02入社](https://note.com/kyashrecruit_jp/n/nc2ddf67986b0)
 - [2020/08/26 Designer 2020/06入社](https://note.com/kyashrecruit_jp/n/n3f2a56794422)
 - [2020/08/24 Server 2020/03入社](https://note.com/kyashrecruit_jp/n/nbc84dff5fc76)
-- [2020/08/11 Server 2020/01入社](https://note.com/kyashrecruit_jp/n/n8f4e3456fd38)
 - [2020/08/17 PdM 2020/01入社](https://note.com/kyashrecruit_jp/n/nc382be8e4232)
+- [2020/08/11 Server 2020/01入社](https://note.com/kyashrecruit_jp/n/n8f4e3456fd38)
 - [2019/09/18 iOS 2017/07入社](https://blog.kyash.co/entry/2019/09/18/183034)
 - [2019/01/29 VPoE 2018/11入社](https://blog.kyash.co/entry/2019/01/29/185643)
 - [2019/01/17 CTO 2019/01入社](https://blog.kyash.co/entry/2019/01/17/162724)
@@ -34,6 +34,7 @@ Kyashが発信しているブログやnoteです。
 社内の雰囲気をなんとなく知れる記事の一覧です。
 
 - [2020/09/14 Kyashエンジニア採用面接ガイドをGitHubで公開しました](https://blog.kyash.co/entry/2020/09/14/101804)
+- [2020/09/04 Slack botのCollaの導入とその後](https://note.com/kyashrecruit_jp/n/n85375e69ef41)
 - [2020/08/19 Kyash SQL部の紹介](https://blog.kyash.co/entry/2020/08/19/113800)
 - [2020/07/31 KyashでのZapierによる自動化を紹介する](https://blog.kyash.co/entry/2020/07/31/111410)
 
@@ -41,7 +42,7 @@ Kyashが発信しているブログやnoteです。
 
 プロダクト開発がどのように行われているかなんとなく知れる記事の一覧です。
 
-- [20200812 アプリの履歴上のお店の名前を、全角漢字かな表記に変えてみました](https://blog.kyash.co/entry/2020/08/12/092539)
+- [2020/08/12 アプリの履歴上のお店の名前を、全角漢字かな表記に変えてみました](https://blog.kyash.co/entry/2020/08/12/092539)
 - [2020/04/20 「お金をまもる」をスマホひとつで。Kyashの新機能【カード設定】のご紹介](https://blog.kyash.co/entry/2020/04/20/142916)
 - [2019/08/02 Kyashアプリ画面デザイン変更、サービスサイトリニューアルの裏側](https://blog.kyash.co/entry/2019/08/02/111013)
 - [2019/08/02 「いつものお支払いを2%お得に」から「いつものカードがもっと便利に」へ　〜 Kyashのマーケティング戦略〜](https://blog.kyash.co/entry/2019/08/02/110017)
