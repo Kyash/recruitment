@@ -10,6 +10,7 @@ Kyashの採用応募者向けの公開情報をまとめたリポジトリです
 
 - [Kyashエンジニアの採用面接ガイド](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md)
 - [Kyash関連記事まとめ](https://github.com/Kyash/recruitment/blob/master/articles.md)
+- [Slack運用ルール](https://github.com/Kyash/recruitment/blob/master/slack_rules.md)
 
 ## Contributing
 
