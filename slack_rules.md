@@ -6,6 +6,8 @@
 
 Kyashに興味を持っていただいた方に、Kyashで働くイメージを持ってもらう目的で公開しています。
 
+現在募集中の職種は[こちら](https://open.talentio.com/1/c/kyash/requisitions/232)からご確認ください。
+
 ----
 
 ## これは何？
