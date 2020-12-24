@@ -5,6 +5,8 @@
 
 現在募集中の職種は[こちら](https://open.talentio.com/1/c/kyash/requisitions/232)からご確認ください。
 
+カジュアル面談ご希望の方は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSc0CA1mtR9tHSmmHJ4AwdBrgoWSBJE-KAaJwRpBTdr3daTXyg/viewform)からお申し込みください。
+
 ## 公開の目的
 
 面接において、応募者がKyashとマッチするかを正確かつ効率的に判断していただくために公開しています。  
@@ -147,6 +149,8 @@ Kyashで一緒に働くメンバーとして、お互いにミスマッチがな
 ----
 
 ## カジュアル面談
+
+カジュアル面談ご希望の方は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSc0CA1mtR9tHSmmHJ4AwdBrgoWSBJE-KAaJwRpBTdr3daTXyg/viewform)からお申し込みください。
 
 ### 目的
 
