@@ -4,6 +4,7 @@
 予告なく変更されることがありますが、よりよい採用プロセスを実現するためご容赦ください。
 
 現在募集中の職種は[こちら](https://open.talentio.com/1/c/kyash/requisitions/232)からご確認ください。
+ご応募の際は募集要項に目を通した上でご応募ください。
 
 カジュアル面談ご希望の方は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSc0CA1mtR9tHSmmHJ4AwdBrgoWSBJE-KAaJwRpBTdr3daTXyg/viewform)からお申し込みください。
 
