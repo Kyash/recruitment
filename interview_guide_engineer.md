@@ -3,7 +3,8 @@
 このドキュメントは、Kyashのエンジニアの応募者に向けて、採用面接のフローや目的などを明記したものです。  
 予告なく変更されることがありますが、よりよい採用プロセスを実現するためご容赦ください。
 
-現在募集中の職種は[こちら](https://open.talentio.com/1/c/kyash/requisitions/232)からご確認ください。
+現在募集中の職種は[こちら](https://open.talentio.com/1/c/kyash/requisitions/232)です。
+応募の際は必ず募集要項の内容をご確認ください。
 
 カジュアル面談ご希望の方は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSc0CA1mtR9tHSmmHJ4AwdBrgoWSBJE-KAaJwRpBTdr3daTXyg/viewform)からお申し込みください。
 
