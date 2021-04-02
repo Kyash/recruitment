@@ -72,6 +72,7 @@ Kyashが発信しているブログやnoteです。
 - `2020/12/19` [KyashのCREについて](https://jwakasa.hatenadiary.com/entry/2020/12/19/082241)
 - `2020/12/16` [Datadog Monitorsを利用した汎用的なCircuit Breakerを作ってみた](https://qiita.com/behiron/items/6b1ae68bc338a1e16a74)
 - `2020/12/11` [KyashのQUICPayを支える決済システム概要](https://nilpoona.hatenablog.com/entry/2020/12/11/111047)
+- `2020/08/24` [カード業界の厳しいセキュリティと開発スピードをどう両立？ Kyashに学ぶAWS活用](https://codezine.jp/article/detail/12714)
 
 ## 事業
 
