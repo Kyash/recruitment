@@ -22,7 +22,7 @@ Kyashが発信しているブログやnoteです。
 
 採用チームが公開しているメンバー紹介です。どんな人がいるのかなんとなくわかります。
 
-- `2021/04/15` [Kyashに入社して2年くらい経った話](https://note.com/temma_fukaya/n/n6535fd48d39c)
+- `2021/04/15` [Server 2019/04入社『Kyashに入社して2年くらい経った話』](https://note.com/temma_fukaya/n/n6535fd48d39c)
 - `2020/12/21` [EM 2017/12入社『KyashでEngineering Managerとしてやってきたこと / やっていくこと』](https://konifar.hatenablog.com/entry/2020/12/21/160317)
 - `2020/12/18` [Data 2020/09入社『Kyashに1人目のデータエンジニアとして入社してから3ヶ月半程でやったこと』](https://zenn.dev/momota/articles/e5ebb12ccb09f5)
 - `2020/12/15` [iOS 2020/11入社『株式会社Kyashに入社しました』](https://nekowen.hatenablog.jp/entry/2020/12/15/100514)
