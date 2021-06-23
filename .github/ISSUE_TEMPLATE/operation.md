@@ -2,7 +2,7 @@
 name: Operation
 about: リポジトリの運用関連はこちらから
 title: ''
-labels: 'operation'
+labels: operation
 assignees: ''
 
 ---

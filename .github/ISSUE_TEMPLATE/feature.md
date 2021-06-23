@@ -2,7 +2,7 @@
 name: Feature
 about: 新しいドキュメントの追加などはこちらから
 title: ''
-labels: 'feature'
+labels: feature
 assignees: ''
 
 ---
