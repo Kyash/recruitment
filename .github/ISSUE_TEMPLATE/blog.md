@@ -7,5 +7,14 @@ assignees: ''
 
 ---
 
+## Overview
+
 こんなこと書こうかなーという内容をざっと書いてください
 リリース前の機能の情報などはここに書かないように注意してください
+
+## Tasks
+
+- [ ] Slackでレビューを依頼した
+- [ ] 記事を公開してIssueにリンクをコメントした
+- [ ] (任意) [articles.md](https://github.com/Kyash/recruitment/blob/master/articles.md) にPull Requestを出した
+- [ ] マイルストーンをクローズした
