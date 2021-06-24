@@ -90,6 +90,7 @@ sec- | チーム | セキュリティ関連 | sec-pcidss, sec-rss
 tech- | チーム | Techチームが関係するもの | tech-team, tech-sre
 incident- | プロジェクト | インシデント発生時に作るもの | incident-2020xxxx
 prj- | プロジェクト | 事業やチームのプロジェクトごとに作るもの。基本的に期限が決まっているもののみ | prj-kyash-card
+guild- | ギルド | プロダクト開発組織のミッション単位で作られるギルドごとに作るもの | guild-growth
 chat- | その他 | 雑談 | chat, chat-cat
 club- | その他 | クラブ活動 | club-futsal, club-sql
 guest- | その他 | ゲストユーザーとのやりとり | guest-xxx
