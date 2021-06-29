@@ -40,6 +40,7 @@ Kyashが発信しているブログやnoteです。
 
 社内の雰囲気をなんとなく知れる記事の一覧です。
 
+- `2021/06/08` [KyashのAndroid/iOSアプリエンジニア向けのカジュアル面談はこんな感じ](https://blog.kyash.co/entry/2021/06/08/125757)
 - `2021/03/18` [チームラーニングでチームの共通認識を揃える](https://blog.kyash.co/entry/2021/03/18/102602)
 - `2020/12/23` [KyashのSlack運用ルールをGitHubで公開しました](https://blog.kyash.co/entry/2020/12/23/165623)
 - `2020/12/12` [会社の過去の出来事をお知らせする『今日は何の日？bot』を作りました](https://konifar.hatenablog.com/entry/2020/12/12/112540)

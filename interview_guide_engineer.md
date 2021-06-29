@@ -167,7 +167,8 @@ Kyashで一緒に働くメンバーとして、お互いにミスマッチがな
 
 ## カジュアル面談
 
-カジュアル面談ご希望の方は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSc0CA1mtR9tHSmmHJ4AwdBrgoWSBJE-KAaJwRpBTdr3daTXyg/viewform)からお申し込みください。
+カジュアル面談ご希望の方は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSc0CA1mtR9tHSmmHJ4AwdBrgoWSBJE-KAaJwRpBTdr3daTXyg/viewform)からお申し込みください。  
+Android/iOSアプリエンジニア向けのカジュアル面談の雰囲気は[ブログ](https://blog.kyash.co/entry/2021/06/08/125757)にまとめていますので、併せてご参照ください。
 
 ### 目的
 
