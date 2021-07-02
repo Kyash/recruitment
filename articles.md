@@ -26,15 +26,14 @@ Kyashが発信しているブログやnoteです。
 - `2020/12/21` [EM 2017/12入社『KyashでEngineering Managerとしてやってきたこと / やっていくこと』](https://konifar.hatenablog.com/entry/2020/12/21/160317)
 - `2020/12/18` [Data 2020/09入社『Kyashに1人目のデータエンジニアとして入社してから3ヶ月半程でやったこと』](https://zenn.dev/momota/articles/e5ebb12ccb09f5)
 - `2020/12/15` [iOS 2020/11入社『株式会社Kyashに入社しました』](https://nekowen.hatenablog.jp/entry/2020/12/15/100514)
-- `2020/12/14` [iOS 2019/01入社『 Kyashに入社して1年くらい経ちました』](https://tamadon.hatenablog.jp/entry/2020/12/14/093157)
+- `2020/12/14` [iOS 2019/01入社『Kyashに入社して1年くらい経ちました』](https://tamadon.hatenablog.jp/entry/2020/12/14/093157)
 - `2020/12/03` [Android 2020/11入社『Kyashに入って1ヶ月なので面接と入社してからの感想』](https://note.com/sudo5in5k/n/n61c33f5ac671)
 - `2020/09/18` [SRE 2020/02入社](https://note.com/kyashrecruit_jp/n/nc2ddf67986b0)
 - `2020/08/26` [Designer 2020/06入社](https://note.com/kyashrecruit_jp/n/n3f2a56794422)
 - `2020/08/24` [Server 2020/03入社](https://note.com/kyashrecruit_jp/n/nbc84dff5fc76)
 - `2020/08/17` [PdM 2020/01入社](https://note.com/kyashrecruit_jp/n/nc382be8e4232)
 - `2020/08/11` [Server 2020/01入社](https://note.com/kyashrecruit_jp/n/n8f4e3456fd38)
-- `2019/01/29` [CTO 2018/11入社](https://blog.kyash.co/entry/2019/01/29/185643)
-- `2019/01/17` [CPO 2019/01入社](https://blog.kyash.co/entry/2019/01/17/162724)
+- `2019/01/29` [EM(現CTO) 2018/11入社](https://blog.kyash.co/entry/2019/01/29/185643)
 
 ## 社内の取り組み
 
