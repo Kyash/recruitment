@@ -69,6 +69,7 @@ Kyashが発信しているブログやnoteです。
 
 エンジニアリングチームやシステムについて知れる記事の一覧です。
 
+- `2021/07/06` [proto定義や成果物の管理用レポジトリを構築した話](https://blog.kyash.co/entry/2021/07/06/110106)
 - `2021/06/30` [CTOになって半年の振り返りとこれから](https://ymzkmct.hatenablog.com/entry/2021/06/30/125258)
 - `2020/12/23` [2020年 Kyash コーポレートエンジニアリング振り返り](https://rela1470.hatenablog.jp/entry/2020/12/23/000000)
 - `2020/12/21` [Locust + AWS ECS(Fargate)で負荷試験環境を作った話](https://unless.hatenablog.jp/entry/2020/12/21/093659)
