@@ -54,6 +54,7 @@ Kyashが発信しているブログやnoteです。
 
 プロダクト開発がどのように行われているかなんとなく知れる記事の一覧です。
 
+- `2021/07/12` [他チームにも知っておいてもらいたいAndroid/iOSのリリース知識](https://blog.kyash.co/entry/2021/07/12/160308)
 - `2020/12/17` [3Dセキュア対応までの道のり](https://zenn.dev/snowmanbuilder/articles/be05acbdc2835f)
 - `2020/12/13` [前払式支払手段発行業と資金移動業について](https://foxtoy.hateblo.jp/entry/2020/12/13/000000)
 - `2020/12/08` [Kyashの資金移動サービスはどのようにして始まったか](https://blog.kyash.co/entry/2020/12/08/125718)
