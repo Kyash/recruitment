@@ -22,6 +22,7 @@ Kyashが発信しているブログやnoteです。
 
 採用チームが公開しているメンバー紹介です。どんな人がいるのかなんとなくわかります。
 
+- `2021/07/13` [Android 2021/04入社『Kyashに入社しました』](https://note.com/dosukoi_android/n/nd00b1f4afb6d)
 - `2021/04/15` [Server 2019/04入社『Kyashに入社して2年くらい経った話』](https://note.com/temma_fukaya/n/n6535fd48d39c)
 - `2020/12/21` [EM 2017/12入社『KyashでEngineering Managerとしてやってきたこと / やっていくこと』](https://konifar.hatenablog.com/entry/2020/12/21/160317)
 - `2020/12/18` [Data 2020/09入社『Kyashに1人目のデータエンジニアとして入社してから3ヶ月半程でやったこと』](https://zenn.dev/momota/articles/e5ebb12ccb09f5)
@@ -33,6 +34,7 @@ Kyashが発信しているブログやnoteです。
 - `2020/08/24` [Server 2020/03入社](https://note.com/kyashrecruit_jp/n/nbc84dff5fc76)
 - `2020/08/17` [PdM 2020/01入社](https://note.com/kyashrecruit_jp/n/nc382be8e4232)
 - `2020/08/11` [Server 2020/01入社](https://note.com/kyashrecruit_jp/n/n8f4e3456fd38)
+- `2019/01/29` [EM(現CTO) 2018/11入社](https://blog.kyash.co/entry/2019/01/29/185643)
 - `2019/01/29` [EM(現CTO) 2018/11入社](https://blog.kyash.co/entry/2019/01/29/185643)
 
 ## 社内の取り組み
