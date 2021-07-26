@@ -28,6 +28,6 @@
         "textlint-rule-preset-ja-technical-writing": "^7.0.0",
         "textlint-filter-rule-comments": "^1.2.2",
         "textlint-filter-rule-whitelist": "^2.0.0",
-        "markdownlint-cli": "^0.27.1"
+        "markdownlint-cli": "^0.28.1"
     }
 }
