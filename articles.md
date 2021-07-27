@@ -15,6 +15,8 @@ Kyashが発信しているブログやnoteです。
   - Kyashのメンバーや採用、組織などの話を書いています
 - [Kyash Advent Calendar 2020](https://adventar.org/calendars/5745)
   - 2020年に完走したAdvent Calendarです
+- [Kyash Advent Calendar 2019](https://adventar.org/calendars/4359)
+  - 2019年に完走したAdvent Calendarです
 - [kyash.fm](https://open.spotify.com/show/36D8klfwbNF3ger0blVXH3)
   - Kyashのメンバーが普段の仕事や雰囲気などについて語るPodcastです
 
