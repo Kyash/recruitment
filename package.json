@@ -23,11 +23,11 @@
     },
     "homepage": "https://github.com/Kyash/recruitment",
     "devDependencies": {
+        "markdownlint-cli": "^0.28.1",
         "textlint": "^12.0.2",
-        "textlint-rule-prh": "^5.2.1",
-        "textlint-rule-preset-ja-technical-writing": "^7.0.0",
         "textlint-filter-rule-comments": "^1.2.2",
         "textlint-filter-rule-whitelist": "^2.0.0",
-        "markdownlint-cli": "^0.28.1"
+        "textlint-rule-preset-ja-technical-writing": "^6.0.0",
+        "textlint-rule-prh": "^5.2.1"
     }
 }
