@@ -42,6 +42,7 @@ Kyashが発信しているブログやnoteです。
 
 社内の雰囲気をなんとなく知れる記事の一覧です。
 
+- `2021/07/30` [SREメンバーの半数が地方勤務な話](https://blog.kyash.co/entry/2021/07/30/100000)
 - `2021/07/27` [Kyash Techチームのブログ記事発信の進め方](https://blog.kyash.co/entry/2021/07/27/203922)
 - `2021/07/02` [Visa決済基盤にProxyサーバーを導入したお話](https://blog.kyash.co/entry/2021/07/02/080000)
 - `2021/06/08` [KyashのAndroid/iOSアプリエンジニア向けのカジュアル面談はこんな感じ](https://blog.kyash.co/entry/2021/06/08/125757)
