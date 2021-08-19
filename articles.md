@@ -42,6 +42,7 @@ Kyashが発信しているブログやnoteです。
 
 社内の雰囲気をなんとなく知れる記事の一覧です。
 
+- `2021/08/18` [ゼロからはじめる、データ分析と可視化](https://blog.kyash.co/entry/2021/08/18/163430)
 - `2021/08/12` [特定のSlackチャネルに全メンバーを一括招待するコマンドをZapierで作る](https://konifar.hatenablog.com/entry/2021/08/12/224828)
 - `2021/07/30` [SREメンバーの半数が地方勤務な話](https://blog.kyash.co/entry/2021/07/30/100000)
 - `2021/07/27` [Kyash Techチームのブログ記事発信の進め方](https://blog.kyash.co/entry/2021/07/27/203922)
@@ -60,7 +61,6 @@ Kyashが発信しているブログやnoteです。
 
 プロダクト開発がどのように行われているかなんとなく知れる記事の一覧です。
 
-- `2021/08/18` [ゼロからはじめる、データ分析と可視化](https://blog.kyash.co/entry/2021/08/18/163430)
 - `2021/08/11` [Kyash QAチームの改善の取り組みについて](https://blog.kyash.co/entry/2021/08/11/191819)
 - `2021/07/12` [他チームにも知っておいてもらいたいAndroid/iOSのリリース知識](https://blog.kyash.co/entry/2021/07/12/160308)
 - `2020/12/17` [3Dセキュア対応までの道のり](https://zenn.dev/snowmanbuilder/articles/be05acbdc2835f)
