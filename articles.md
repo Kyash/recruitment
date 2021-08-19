@@ -60,6 +60,7 @@ Kyashが発信しているブログやnoteです。
 
 プロダクト開発がどのように行われているかなんとなく知れる記事の一覧です。
 
+- `2021/08/18` [ゼロからはじめる、データ分析と可視化](https://blog.kyash.co/entry/2021/08/18/163430)
 - `2021/08/11` [Kyash QAチームの改善の取り組みについて](https://blog.kyash.co/entry/2021/08/11/191819)
 - `2021/07/12` [他チームにも知っておいてもらいたいAndroid/iOSのリリース知識](https://blog.kyash.co/entry/2021/07/12/160308)
 - `2020/12/17` [3Dセキュア対応までの道のり](https://zenn.dev/snowmanbuilder/articles/be05acbdc2835f)
