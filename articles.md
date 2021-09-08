@@ -43,6 +43,7 @@ Kyashが発信しているブログやnoteです。
 
 社内の雰囲気をなんとなく知れる記事の一覧です。
 
+- `2021/09/07` [Kyashの採用リポジトリを公開して1年の振り返り](https://blog.kyash.co/entry/2021/09/08/110423)
 - `2021/08/31` [Kyashではじめての育休を取得した話](https://blog.pranc1ngpegasus.com/entry/2021/08/31/100000)
 - `2021/08/18` [ゼロからはじめる、データ分析と可視化](https://blog.kyash.co/entry/2021/08/18/163430)
 - `2021/08/12` [特定のSlackチャネルに全メンバーを一括招待するコマンドをZapierで作る](https://konifar.hatenablog.com/entry/2021/08/12/224828)
