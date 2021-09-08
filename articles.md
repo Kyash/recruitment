@@ -24,6 +24,7 @@ Kyashが発信しているブログやnoteです。
 
 採用チームが公開しているメンバー紹介です。どんな人がいるのかなんとなくわかります。
 
+- `2021/09/07` [Kyashに入社して1.5年経過したので振り返ってみる](https://foxtoy.hateblo.jp/entry/2021/09/07/162553)
 - `2021/07/13` [Android 2021/04入社『Kyashに入社しました』](https://note.com/dosukoi_android/n/nd00b1f4afb6d)
 - `2021/04/15` [Server 2019/04入社『Kyashに入社して2年くらい経った話』](https://note.com/temma_fukaya/n/n6535fd48d39c)
 - `2020/12/21` [EM 2017/12入社『KyashでEngineering Managerとしてやってきたこと / やっていくこと』](https://konifar.hatenablog.com/entry/2020/12/21/160317)
