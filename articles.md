@@ -81,6 +81,7 @@ Kyashが発信しているブログやnoteです。
 
 エンジニアリングチームやシステムについて知れる記事の一覧です。
 
+- `2021/09/10` [Terraformバージョンを0.12系から1.0系へ最新化した](https://blog.yuu26.com/terraform-version-up/)
 - `2021/09/03` [KyashのAPIのテストにおけるPostmanの運用方針](https://blog.kyash.co/entry/2021/09/03/095714)
 - `2021/08/27` [ECSへ移行したらマシンリソースを使い果たした問題がnet/httpのhttp.Transportの使い方の誤りにあった話](https://qiita.com/behiron/items/791302d10b73813019eb)
 - `2021/07/21` [Kyash iOS アプリの履歴画面を SwiftUI でリファクタリングした話](https://blog.kyash.co/entry/2021/07/21/100307)
