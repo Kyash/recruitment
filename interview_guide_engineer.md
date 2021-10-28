@@ -23,7 +23,7 @@
 [書類選考](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#%E6%9B%B8%E9%A1%9E%E9%81%B8%E8%80%83) | EM 1名 | N/A | それぞれの職種の募集要項の `必須の経験・スキル` を満たしているかを確認します。
 [1次面接](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#1%E6%AC%A1%E9%9D%A2%E6%8E%A5) | エンジニアメンバー 2名 | 60分 | 近い立場で一緒に働くメンバーとして、リスペクトできる技術スキルを有しているかどうかを判断します。
 [2次面接](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#2%E6%AC%A1%E9%9D%A2%E6%8E%A5) | EM または VPoE 1名 | 45分 | エンジニアチームで一緒に働くメンバーとして、カルチャーフィットするかどうか、お任せする予定の仕事で期待する成果が出せそうかを判断します。
-[最終面接](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#%E6%9C%80%E7%B5%82%E9%9D%A2%E6%8E%A5) | 前半 CTO / 後半 CEO | 45分 / 30分 | Kyashで一緒に働くメンバーとして、お互いにミスマッチがなく働けるか、条件面を含めた双方向の確認をします。
+[最終面接](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#%E6%9C%80%E7%B5%82%E9%9D%A2%E6%8E%A5) | CTO 1名 | 45分 / 30分 | Kyashで一緒に働くメンバーとして、お互いにミスマッチがなく働けるか、条件面を含めた双方向の確認をします。
 
 また、選考前または選考中にKyashについての情報共有の場としてカジュアル面談を受けられます。希望する方は人事または社内のメンバーまでお気軽にご連絡ください。  
 カジュアル面談は選考ではないので何かを評価することはありません。詳細は後述の[カジュアル面談](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#%E3%82%AB%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E9%9D%A2%E8%AB%87)の説明をご参照ください。
@@ -143,9 +143,7 @@ Kyashで一緒に働くメンバーとして、お互いにミスマッチがな
 
 ### 出席者
 
-前半 CTO / 後半 CEO
-
-スケジュールの都合で、順番が前後したり別日に実施させていただいたりすることがあります。
+CTO 1名
 
 ### 面接の流れ
 
