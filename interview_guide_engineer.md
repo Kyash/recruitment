@@ -22,7 +22,7 @@
 :--: | :--: | :--: | :--
 [書類選考](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#%E6%9B%B8%E9%A1%9E%E9%81%B8%E8%80%83) | EM 1名 | N/A | それぞれの職種の募集要項の `必須の経験・スキル` を満たしているかを確認します。
 [1次面接 (Mobile)](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#1%E6%AC%A1%E9%9D%A2%E6%8E%A5+%28Mobile%29) | エンジニアメンバー 2名 | 60分 | 近い立場で一緒に働くメンバーとして、リスペクトできる技術スキルを有しているかどうかを判断します。
-[1次面接 (Serverside)](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#1%E6%AC%A1%E9%9D%A2%E6%8E%A5+%28Serverside%29) | エンジニアメンバー 1名 * 2 | 45分 | 近い立場で一緒に働くメンバーとして、リスペクトできる技術スキルを有しているかどうかを判断します。
+[1次面接 (Serverside)](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#1%E6%AC%A1%E9%9D%A2%E6%8E%A5+%28Serverside%29) | エンジニアメンバー 1名 * 2 | 45分 * 2 | 近い立場で一緒に働くメンバーとして、リスペクトできる技術スキルを有しているかどうかを判断します。
 [2次面接](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#2%E6%AC%A1%E9%9D%A2%E6%8E%A5) | EM または VPoE 1名 | 45分 | エンジニアチームで一緒に働くメンバーとして、カルチャーフィットするかどうか、お任せする予定の仕事で期待する成果が出せそうかを判断します。
 [最終面接](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#%E6%9C%80%E7%B5%82%E9%9D%A2%E6%8E%A5) | 前半 CTO / 後半 CEO | 45分 / 30分 | Kyashで一緒に働くメンバーとして、お互いにミスマッチがなく働けるか、条件面を含めた双方向の確認をします。
 [オファー面談](https://github.com/Kyash/recruitment/blob/master/interview_guide_engineer.md#%E3%82%AA%E3%83%95%E3%82%A1%E3%83%BC%E9%9D%A2%E8%AB%87) | CEO 1名 | 30分 | 面接を経てオファーを出させていただいた方に、期待する役割や条件、今後の事業や組織の展望などを伝え、応募者の最終判断に必要なすり合わせを行います。
