@@ -84,6 +84,7 @@ corp- | チーム | Corpチームが関係するもの | corp-team
 design- | チーム | Designチームが関係するもの | design-team
 hr- | チーム | 採用関連のもの | hr-recruit, hr-meetup
 market- | チーム | Marketingチームが関係するもの | market-team
+internal-audit- | チーム | 内部監査関連、および、内部監査チームが関係するもの | internal-audit-announce, internal-audit-team
 mgr- | チーム | Manager同士のやりとり | mgr-team
 ops- | チーム | Opsチームが関係するもの | ops-cs
 sec- | チーム | セキュリティ関連 | sec-pcidss, sec-rss
