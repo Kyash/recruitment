@@ -14,6 +14,7 @@ Kyashの採用応募者向けの公開情報をまとめたリポジトリです
 - [Kyash関連記事まとめ](https://github.com/Kyash/recruitment/blob/master/articles.md)
 - [Slack運用ルール](https://github.com/Kyash/recruitment/blob/master/slack_rules.md)
 - [他チームにも知っておいてもらいたいAndroid/iOSのリリース知識](https://github.com/Kyash/recruitment/blob/master/mobile_basic_knowledge.md)
+- [@konifar VPoE README](https://github.com/Kyash/recruitment/blob/master/konifar_vpoe_readme.md)
 
 ## Contributing
 
