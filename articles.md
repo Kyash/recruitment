@@ -13,6 +13,8 @@ Kyashが発信しているブログやnoteです。
   - デザイナーチームのnoteです。デザインやツール、チームなどの話を書いています
 - [Kyash People](https://note.com/kyashrecruit_jp)
   - Kyashのメンバーや採用、組織などの話を書いています
+- [Kyash Advent Calendar 2021](https://adventar.org/calendars/6274)
+  - 2021年に完走したAdvent Calendarです
 - [Kyash Advent Calendar 2020](https://adventar.org/calendars/5745)
   - 2020年に完走したAdvent Calendarです
 - [Kyash Advent Calendar 2019](https://adventar.org/calendars/4359)
@@ -24,6 +26,7 @@ Kyashが発信しているブログやnoteです。
 
 採用チームが公開しているメンバー紹介です。どんな人がいるのかなんとなくわかります。
 
+- `2021/12/06` [56歳シルバーエンジニアから見たKyashのオンボーディングや社風](https://note.com/kyashrecruit_jp/n/ndc7ac475f2c1)
 - `2021/09/07` [Kyashに入社して1.5年経過したので振り返ってみる](https://foxtoy.hateblo.jp/entry/2021/09/07/162553)
 - `2021/07/13` [Android 2021/04入社『Kyashに入社しました』](https://note.com/dosukoi_android/n/nd00b1f4afb6d)
 - `2021/04/15` [Server 2019/04入社『Kyashに入社して2年くらい経った話』](https://note.com/temma_fukaya/n/n6535fd48d39c)
@@ -43,6 +46,7 @@ Kyashが発信しているブログやnoteです。
 
 社内の雰囲気をなんとなく知れる記事の一覧です。
 
+- `2021/12/23` [Kyashの全社会議"All Hands"が2021年にやったこと](https://blog.kyash.co/entry/2021/12/23/090000)
 - `2021/09/24` [iOSDC 2021 LTで話した『Kyash iOSアプリのQAの歴史』のスライド補足](https://konifar.hatenablog.com/entry/2021/09/24/174144)
 - `2021/09/07` [Kyashの採用リポジトリを公開して1年の振り返り](https://blog.kyash.co/entry/2021/09/08/110423)
 - `2021/08/31` [Kyashではじめての育休を取得した話](https://blog.pranc1ngpegasus.com/entry/2021/08/31/100000)
@@ -65,6 +69,7 @@ Kyashが発信しているブログやnoteです。
 
 プロダクト開発がどのように行われているかなんとなく知れる記事の一覧です。
 
+- `2021/11/26` [「満足度評価」を起点としたサービスの継続的改善](https://blog.kyash.co/entry/2021/11/26/110000)
 - `2021/09/17` [「お客さまの声」を起点としたサービスの継続的改善](https://blog.kyash.co/entry/2021/09/17/110000)
 - `2021/08/11` [Kyash QAチームの改善の取り組みについて](https://blog.kyash.co/entry/2021/08/11/191819)
 - `2021/07/12` [他チームにも知っておいてもらいたいAndroid/iOSのリリース知識](https://blog.kyash.co/entry/2021/07/12/160308)
@@ -83,6 +88,8 @@ Kyashが発信しているブログやnoteです。
 
 エンジニアリングチームやシステムについて知れる記事の一覧です。
 
+- `2022/04/01` [Kyash Techチームの展望](https://blog.kyash.co/entry/2022/04/01/132900)
+- `2021/12/15` [開発経験のないQAエンジニアのAPIテスト実装までのキャッチアップ](https://blog.kyash.co/entry/2021/12/15/112612)
 - `2021/11/19` [Android Dev Summit 2021で発表されたAppWidgetの進化まとめ](https://blog.kyash.co/entry/2021/11/19/125319)
 - `2021/10/12` [Passkeys in iCloud Keychainの実装紹介](https://blog.kyash.co/entry/2021/10/12/124330)
 - `2021/10/01` [Jetpack Compose から始める、アクセシビリティ](https://blog.kyash.co/entry/2021/10/01/173000)
@@ -107,6 +114,8 @@ Kyashが発信しているブログやnoteです。
 
 Kyashの事業の現在と未来に言及された記事の一覧です。
 
+- `2022/03/05` [Kyashの挑戦](https://blog.kyash.co/entry/2022/03/25/084941)
+- `2021/12/25` [Kyashが大切にするクラフトマンシップについて](https://blog.kyash.co/entry/2021/12/25/235918)
 - `2020/12/25` [Kyashは口座をソフトウェア化する](https://blog.kyash.co/entry/2020/12/25/235829)
 - `2020/09/07` [「Kyash」が銀行口座からの入出金に対応、“バンキングサービス”に向けて加速へ](https://signal.diamond.jp/articles/-/267) - DIAMOND SIGNAL
 - `2020/08/28` [Digitizing Japan’s Status Quo with Shinichi Takatori, Founder and CEO of Kyash](https://medium.com/wharton-fintech/digitizing-japans-status-quo-with-is-shinichi-takatori-founder-and-ceo-of-kyash-c91bd3cdfbfd) - WHARTON FINTECH
