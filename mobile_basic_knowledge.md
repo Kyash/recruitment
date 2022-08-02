@@ -6,7 +6,7 @@
 
 Kyashに興味を持っていただいた方に、リリースフローやチームのやりとりのイメージを持ってもらう目的で公開しています。
 
-現在募集中の職種は[こちら](https://open.talentio.com/1/c/kyash/requisitions/232)からご確認ください。
+現在募集中の職種は[こちら](https://herp.careers/v1/kyash)からご確認ください。
 
 カジュアル面談ご希望の方は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSc0CA1mtR9tHSmmHJ4AwdBrgoWSBJE-KAaJwRpBTdr3daTXyg/viewform)からお申し込みください。
 
