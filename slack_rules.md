@@ -94,6 +94,7 @@ mgr- | チーム | Manager同士のやりとり | mgr-team
 ops- | チーム | Opsチームが関係するもの | ops-cs
 sec- | チーム | セキュリティ関連 | sec-pcidss, sec-rss
 tech- | チーム | Techチームが関係するもの | tech-team, tech-sre
+ceo- | チーム | CEO、CEOオフィスチームが関係するもの | ceo-scheduling
 incident- | プロジェクト | インシデント発生時に作るもの | incident-2020xxxx
 prj- | プロジェクト | 事業やチームのプロジェクトごとに作るもの。基本的に期限が決まっているもののみ | prj-kyash-card
 guild- | ギルド | プロダクト開発組織のミッション単位で作られるギルドごとに作るもの | guild-growth
