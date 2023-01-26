@@ -82,7 +82,8 @@ Kyashに興味を持っていただいた方に、Kyashで働くイメージを�
 
 Prefix | カテゴリ | 説明 | 例
 :--: | :--: | :-- | :--
-all- | チーム | 全員が関係するもの | all-attendance, all-bug-report
+all- | チーム | 全員が関係するもの。業務委託やアルバイトも含まれます | all-attendance, all-bug-report
+proper-	| チーム |	正社員全員が関係するもの。業務委託やアルバイトは含まれません | proper-live-allhands
 bizdev- | チーム | Bizチームが関係するもの | bizdev-team
 compliance- | チーム | Complianceチームが関係するもの | compliance-team
 corp- | チーム | Corpチームが関係するもの | corp-team
@@ -97,7 +98,6 @@ tech- | チーム | Techチームが関係するもの | tech-team, tech-sre
 ceo- | チーム | CEO、CEOオフィスチームが関係するもの | ceo-scheduling
 incident- | プロジェクト | インシデント発生時に作るもの | incident-2020xxxx
 prj- | プロジェクト | 事業やチームのプロジェクトごとに作るもの。基本的に期限が決まっているもののみ | prj-kyash-card
-guild- | ギルド | プロダクト開発組織のミッション単位で作られるギルドごとに作るもの | guild-growth
 chat- | その他 | 雑談 | chat, chat-cat
 club- | その他 | クラブ活動 | club-futsal, club-sql
 guest- | その他 | ゲストユーザーとのやりとり | guest-xxx
