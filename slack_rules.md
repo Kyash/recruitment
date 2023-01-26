@@ -83,7 +83,7 @@ Kyashに興味を持っていただいた方に、Kyashで働くイメージを�
 Prefix | カテゴリ | 説明 | 例
 :--: | :--: | :-- | :--
 all- | チーム | 全員が関係するもの。業務委託やアルバイトも含まれます | all-attendance, all-bug-report
-proper-	| チーム |	正社員全員が関係するもの。業務委託やアルバイトは含まれません | proper-live-allhands
+proper-	| チーム | 正社員全員が関係するもの。業務委託やアルバイトは含まれません | proper-live-allhands
 bizdev- | チーム | Bizチームが関係するもの | bizdev-team
 compliance- | チーム | Complianceチームが関係するもの | compliance-team
 corp- | チーム | Corpチームが関係するもの | corp-team
