@@ -11,8 +11,8 @@ Kyashが発信しているブログやnoteです。
   - プロダクト開発チーム全般のブログです。技術、採用、チームなどの話を書いています
 - [Kyash Designers](https://note.com/kyash_designers)
   - デザイナーチームのnoteです。デザインやツール、チームなどの話を書いています
-- [Kyash People](https://note.com/kyashrecruit_jp)
-  - Kyashのメンバーや採用、組織などの話を書いています
+- [Kyash People](https://note.com/kyash_co/)
+  - Kyashのメンバーや組織などの話を書いています
 - [Kyash Advent Calendar 2021](https://adventar.org/calendars/6274)
   - 2021年に完走したAdvent Calendarです
 - [Kyash Advent Calendar 2020](https://adventar.org/calendars/5745)
@@ -26,7 +26,6 @@ Kyashが発信しているブログやnoteです。
 
 採用チームが公開しているメンバー紹介です。どんな人がいるのかなんとなくわかります。
 
-- `2021/12/06` [56歳シルバーエンジニアから見たKyashのオンボーディングや社風](https://note.com/kyashrecruit_jp/n/ndc7ac475f2c1)
 - `2021/09/07` [Kyashに入社して1.5年経過したので振り返ってみる](https://foxtoy.hateblo.jp/entry/2021/09/07/162553)
 - `2021/07/13` [Android 2021/04入社『Kyashに入社しました』](https://note.com/dosukoi_android/n/nd00b1f4afb6d)
 - `2021/04/15` [Server 2019/04入社『Kyashに入社して2年くらい経った話』](https://note.com/temma_fukaya/n/n6535fd48d39c)
@@ -35,11 +34,6 @@ Kyashが発信しているブログやnoteです。
 - `2020/12/15` [iOS 2020/11入社『株式会社Kyashに入社しました』](https://nekowen.hatenablog.jp/entry/2020/12/15/100514)
 - `2020/12/14` [iOS 2019/01入社『Kyashに入社して1年くらい経ちました』](https://tamadon.hatenablog.jp/entry/2020/12/14/093157)
 - `2020/12/03` [Android 2020/11入社『Kyashに入って1ヶ月なので面接と入社してからの感想』](https://note.com/sudo5in5k/n/n61c33f5ac671)
-- `2020/09/18` [SRE 2020/02入社](https://note.com/kyashrecruit_jp/n/nc2ddf67986b0)
-- `2020/08/26` [Designer 2020/06入社](https://note.com/kyashrecruit_jp/n/n3f2a56794422)
-- `2020/08/24` [Server 2020/03入社](https://note.com/kyashrecruit_jp/n/nbc84dff5fc76)
-- `2020/08/17` [PdM 2020/01入社](https://note.com/kyashrecruit_jp/n/nc382be8e4232)
-- `2020/08/11` [Server 2020/01入社](https://note.com/kyashrecruit_jp/n/n8f4e3456fd38)
 - `2019/01/29` [EM(現CTO) 2018/11入社](https://blog.kyash.co/entry/2019/01/29/185643)
 
 ## 社内の取り組み
@@ -59,9 +53,7 @@ Kyashが発信しているブログやnoteです。
 - `2021/03/18` [チームラーニングでチームの共通認識を揃える](https://blog.kyash.co/entry/2021/03/18/102602)
 - `2020/12/23` [KyashのSlack運用ルールをGitHubで公開しました](https://blog.kyash.co/entry/2020/12/23/165623)
 - `2020/12/12` [会社の過去の出来事をお知らせする『今日は何の日？bot』を作りました](https://konifar.hatenablog.com/entry/2020/12/12/112540)
-- `2020/12/05` [KyashでやってるAll handsの話](https://note.com/kyashrecruit_jp/n/ncf5e478911c8)
 - `2020/09/14` [Kyashエンジニア採用面接ガイドをGitHubで公開しました](https://blog.kyash.co/entry/2020/09/14/101804)
-- `2020/09/04` [Slack botのCollaの導入とその後](https://note.com/kyashrecruit_jp/n/n85375e69ef41)
 - `2020/08/19` [Kyash SQL部の紹介](https://blog.kyash.co/entry/2020/08/19/113800)
 - `2020/07/31` [KyashでのZapierによる自動化を紹介する](https://blog.kyash.co/entry/2020/07/31/111410)
 
