@@ -28,6 +28,6 @@
         "textlint-filter-rule-comments": "^1.2.2",
         "textlint-filter-rule-whitelist": "^2.0.0",
         "textlint-rule-preset-ja-technical-writing": "^6.0.0",
-        "textlint-rule-prh": "^5.2.1"
+        "textlint-rule-prh": "^6.1.0"
     }
 }
